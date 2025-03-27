@@ -1,0 +1,4 @@
+{
+  "*/**/*.{js,jsx,ts,tsx}": ["npm format", "npm lint:fix", "npm lint"],
+  "*/**/*.{json,css,md}": ["npm format"]
+}
